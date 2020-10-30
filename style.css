@@ -163,7 +163,7 @@ footer {
   border-radius: 16px;
   outline-color: #FF1493;
   outline-style: dotted;
-
+  cursor: pointer;
   /* Position the Bubble text - see examples below! */
   position: absolute;
   z-index: 1;
